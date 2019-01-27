@@ -1,0 +1,22 @@
+{
+  "name": "colt-model-649",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Mercado",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrk1mod0/senior-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrk1mod0/senior-system/issues"
+  },
+  "homepage": "https://github.com/mrk1mod0/senior-system#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
